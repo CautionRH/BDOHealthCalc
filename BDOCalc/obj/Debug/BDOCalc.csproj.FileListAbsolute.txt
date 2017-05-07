@@ -1,0 +1,14 @@
+c:\users\russell\documents\visual studio 2012\Projects\BDOCalc\BDOCalc\bin\Debug\BDOCalc.exe.config
+c:\users\russell\documents\visual studio 2012\Projects\BDOCalc\BDOCalc\bin\Debug\BDOCalc.exe
+c:\users\russell\documents\visual studio 2012\Projects\BDOCalc\BDOCalc\bin\Debug\BDOCalc.pdb
+c:\users\russell\documents\visual studio 2012\Projects\BDOCalc\BDOCalc\obj\Debug\BDOCalc.csprojResolveAssemblyReference.cache
+c:\users\russell\documents\visual studio 2012\Projects\BDOCalc\BDOCalc\obj\Debug\MainWindow.baml
+c:\users\russell\documents\visual studio 2012\Projects\BDOCalc\BDOCalc\obj\Debug\MainWindow.g.cs
+c:\users\russell\documents\visual studio 2012\Projects\BDOCalc\BDOCalc\obj\Debug\App.g.cs
+c:\users\russell\documents\visual studio 2012\Projects\BDOCalc\BDOCalc\obj\Debug\BDOCalc_MarkupCompile.cache
+c:\users\russell\documents\visual studio 2012\Projects\BDOCalc\BDOCalc\obj\Debug\BDOCalc.g.resources
+c:\users\russell\documents\visual studio 2012\Projects\BDOCalc\BDOCalc\obj\Debug\BDOCalc.Properties.Resources.resources
+c:\users\russell\documents\visual studio 2012\Projects\BDOCalc\BDOCalc\obj\Debug\BDOCalc.csproj.GenerateResource.Cache
+c:\users\russell\documents\visual studio 2012\Projects\BDOCalc\BDOCalc\obj\Debug\BDOCalc.exe
+c:\users\russell\documents\visual studio 2012\Projects\BDOCalc\BDOCalc\obj\Debug\BDOCalc.pdb
+C:\Users\Russell\documents\visual studio 2012\Projects\BDOCalc\BDOCalc\obj\Debug\BDOCalc_MarkupCompile.lref
